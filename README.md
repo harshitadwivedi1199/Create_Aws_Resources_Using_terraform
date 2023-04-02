@@ -3,7 +3,7 @@ Terraform code to create aws resources (ec2 as webserver , key-pair , security-g
 
 File Details :
 
-terraform.vars - File to take user input.
+terraform.tfvars - File to take user input.
 
 variable.tf - File to declare variables.
 
